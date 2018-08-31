@@ -4,9 +4,10 @@
 
 ```bash
 # Setting up for .vimrc
+mkdir ~/dotfiles/vim/
 mv ~/.vimrc ~/dotfiles/vim/.vimrc
 cd dotfiles
-stow <vim, zshrc.. etc>
+stow vim
 ```
 
 ## Mmhmm
