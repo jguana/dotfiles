@@ -5,7 +5,7 @@
     },
     "editor": {
       "fontFamily": "Ubuntu Mono",
-      "fontSize": 15,
+      "fontSize": 16,
       "tabLength": 4
     },
     "exception-reporting": {
